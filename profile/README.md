@@ -7,14 +7,14 @@
 
 # 👋 Welcome to Recode Hive
 
-You’re looking at one of the most inclusive and beginner-friendly open-source communities on the planet!
-**Recode Hive organisation** is the home of open source! Make Pull Requests, open Issues, share ideas, help each other and make improvements!
+You’re looking at one of the most inclusive and beginner-friendly open-source communities on the planet!  
+
+**Recode Hive** organisation is the home of open source! Make Pull Requests, open Issues, share ideas, help each other and make improvements!
 
 ![GitHub followers](https://img.shields.io/github/followers/recodehive)
 ![GitHub User's stars](https://img.shields.io/github/stars/recodehive?style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/recodehive/awesome-github-profiles)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Frecodehive.github.io%2Fawesome-github-profiles%2F&style=flat)
-
 
 ## Get Started
 
@@ -46,7 +46,6 @@ We’re proud of our diverse and vibrant group of contributors!
 Wanna be featured here? Start contributing and join our **Community** 💜
 
 [👀 View all members](https://github.com/orgs/recodehive/people)
-
 
 ## Support
 
