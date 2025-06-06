@@ -9,7 +9,7 @@
 
 You’re looking at one of the most inclusive and beginner-friendly open-source communities on GitHub!  
 
-**Recode Hive** organisation is the home of open source! Make Pull Requests, open Issues, share ideas, help each other, and make improvements!
+**Recode Hive** organisation is the home of open source! Make Pull Requests, open Issues, share ideas, help each other, and make improvements!<br>
 ![](https://komarev.com/ghpvc/?username=recodehive&color=dc143c)
 ![GitHub followers](https://img.shields.io/github/followers/recodehive)
 ![GitHub User's stars](https://img.shields.io/github/stars/recodehive?style=flat)
