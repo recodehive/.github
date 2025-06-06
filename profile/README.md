@@ -5,20 +5,18 @@
 <img src="https://github.com/user-attachments/assets/8a281b6a-160a-4cf0-87bd-2287eb67fccd#gh-dark-mode-only" alt="drawing" width="500"/><br>
 <a href="https://github.com/Recode-Hive/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Recode-Hive+GitHub+Community+Organization"><img src="https://img.shields.io/badge/Join Recode Organisation%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a> <a href="https://x.com/sanjay_kv_"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/sanjay-k-v/"><img src="https://img.shields.io/badge/LinkedIn%20-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0573e7"></a> <a href="https://www.youtube.com/@RecodeHive"><img src="https://img.shields.io/badge/YouTube%20-%231DA1F2.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=FF3F33"></a>
 
-
 # 👋 Welcome to Recode Hive
 
 You’re looking at one of the most inclusive and beginner-friendly open-source communities on GitHub!  
 
 **Recode Hive** organisation is the home of open source! Make Pull Requests, open Issues, share ideas, help each other, and make improvements!
-
+![](https://komarev.com/ghpvc/?username=recodehive&color=dc143c)
 ![GitHub followers](https://img.shields.io/github/followers/recodehive)
 ![GitHub User's stars](https://img.shields.io/github/stars/recodehive?style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/recodehive/awesome-github-profiles)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Frecodehive.github.io%2Fawesome-github-profiles%2F&style=flat)
 <a href=""><img src="https://img.shields.io/github/stars/sanjay-kv?label=Star%20Gazers&style=social"></a>
 <a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 <a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
 
 
