@@ -2,7 +2,7 @@
 
 <!-- Add Logo Banner -->
 
-<img src="https://raw.githubusercontent.com/recodehive/.github/refs/heads/main/profile/GitHub%20Banner%20(1).gif#gh-dark-mode-only" alt="drawing" width="500"/><br>
+<img src="https://raw.githubusercontent.com/recodehive/.github/refs/heads/main/profile/GitHub%20Banner%20Public.gif#gh-dark-mode-only" alt="drawing" width="500"/><br>
 <a href="https://github.com/Recode-Hive/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Recode-Hive+GitHub+Community+Organization"><img src="https://img.shields.io/badge/Join Recode Organisation%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a> 
 
 # 👋 Welcome to Recode Hive
