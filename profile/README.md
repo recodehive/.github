@@ -2,8 +2,8 @@
 
 <!-- Add Logo Banner -->
 
-<img src="https://github.com/user-attachments/assets/8a281b6a-160a-4cf0-87bd-2287eb67fccd#gh-dark-mode-only" alt="drawing" width="500"/><br>
-<a href="https://github.com/Recode-Hive/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Recode-Hive+GitHub+Community+Organization"><img src="https://img.shields.io/badge/Join Recode Organisation%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a> <a href="https://x.com/sanjay_kv_"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/sanjay-k-v/"><img src="https://img.shields.io/badge/LinkedIn%20-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0573e7"></a> <a href="https://www.youtube.com/@RecodeHive"><img src="https://img.shields.io/badge/YouTube%20-%231DA1F2.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=FF3F33"></a>
+<img src="https://raw.githubusercontent.com/recodehive/.github/refs/heads/main/profile/GitHub%20Banner%20(1).gif#gh-dark-mode-only" alt="drawing" width="500"/><br>
+<a href="https://github.com/Recode-Hive/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Recode-Hive+GitHub+Community+Organization"><img src="https://img.shields.io/badge/Join Recode Organisation%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a> 
 
 # 👋 Welcome to Recode Hive
 
@@ -42,18 +42,15 @@ Follow these steps to become a part of our amazing community:
 - **New to GitHub?** No worries! Start [here](#) with our guide to getting started.
 - **Practice Open Source** by adding your name to our [Beginner friendly Practice Repo](https://github.com/recodehive/Opensource-practice)
 - **Explore Issues** perfect for beginners via our **Good First Issue Finder**
-  
 ## Support
 Schedule a [1:1](https://github.com/sanjay-kv) call with the Program Manager or report a code of conduct incident. [👀 View all members](https://github.com/orgs/recodehive/people)
 [➡️ View all discussions](https://github.com/orgs/recodehive/discussions)
 
 
-</br>
-
 <div align="center">
-
 Happy open-source contributions and here’s to your career success! 🎉
 <br>
+  
 ### recode-hive 2025
 
 [Website](https://recodehive.com/) | [Instagram](https://www.instagram.com/nomad_brains/) | [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/) | [Twitter](https://x.com/sanjay_kv_) | [YouTube](https://www.youtube.com/@RecodeHive)<br>
