@@ -16,7 +16,7 @@ You’re looking at one of the most inclusive and beginner-friendly open-source 
 ![GitHub contributors](https://img.shields.io/github/contributors/recodehive/awesome-github-profiles)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Frecodehive.github.io%2Fawesome-github-profiles%2F&style=flat)
 <a href=""><img src="https://img.shields.io/github/stars/sanjay-kv?label=Star%20Gazers&style=social"></a>
-<a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
+<a href="https://discord.gg/w2V2aH6U"><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
 <a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
 
 
